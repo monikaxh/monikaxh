@@ -7,7 +7,7 @@
     <img width="50" alt="LinkedIn: Monika" src="https://raw.githubusercontent.com/monikaxh/monikaxh/master/linkedin-icon.svg" target="_blank" />
   </a>
   
-    <a href="https://www.instagram.com/monikaxhribersek/" aria-label="Follow Monikart on Instagram">
+    <a href="https://www.instagram.com/monikart.design/" aria-label="Follow Monikart on Instagram">
     <img width="50" alt="Instagram: monika" src="https://raw.githubusercontent.com/monikaxh/monikaxh/master/instagram-icon.svg" target="_blank" />
   </a>
 
