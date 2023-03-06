@@ -1,7 +1,6 @@
 - 👋  Hi, I’m Monika
 - 🎨  I am UI/UX designer | freelancer 
-- 👩🏻‍💻  I’m currently contributing to [Flowser](https://github.com/onflowser/flowser)
-- 🌱  I’m currently learning 2D Animation
+- 👩🏻‍💻  I’m currently contributing to [Flowser](https://github.com/onflowser/flowser) & [LinkLock](https://github.com/onflowser/linklock)
 
   <a href="https://www.linkedin.com/in/monikahribersek/" aria-label="Connect with Monika Hribersek on LinkedIn">
     <img width="30" alt="LinkedIn: Monika" src="https://raw.githubusercontent.com/monikaxh/monikaxh/master/linkedin-icon.svg" target="_blank" />
