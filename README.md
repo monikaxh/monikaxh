@@ -1,15 +1,24 @@
-- 👋  Hi, I’m Monika
-- 🎨  I am UI/UX designer | freelancer 
-- 👩🏻‍💻  I’m currently contributing to [Flowser](https://github.com/onflowser/flowser) & [LinkLock](https://github.com/onflowser/linklock)
 
-  <a href="https://www.linkedin.com/in/monikahribersek/" aria-label="Connect with Monika Hribersek on LinkedIn">
-    <img width="30" alt="LinkedIn: Monika" src="https://raw.githubusercontent.com/monikaxh/monikaxh/master/linkedin-icon.svg" target="_blank" />
-  </a>
-  
-    <a href="https://www.instagram.com/monikart.design/" aria-label="Follow Monikart on Instagram">
-    <img width="30" alt="Instagram: monika" src="https://raw.githubusercontent.com/monikaxh/monikaxh/master/instagram-icon.svg" target="_blank" />
-  </a>
+Monika | UX/UI Designer at Flowser
 
+Hey everyone, I'm Monika! 🌟 I wear multiple hats at Flowser - shaping both our design landscape and our community vibe.
+
+🎨 Designing User Experiences:
+
+<be>I'm passionate about crafting seamless digital journeys. From wireframes to sleek interfaces, I specialize in merging aesthetics with functionality, ensuring Flowser users have an exceptional experience.
+
+🖥️ My Expertise:
+
+UX/UI Design
+User-Centric Approaches
+Community Building
+
+🌸 Let's Connect:
+Whether it's discussing design philosophies, reminiscing about Flowser's early days, or exploring how we can improve user experiences, I'm always up for a chat. Let's create & innovate! 🚀✨
+
+ [Flowser](https://github.com/onflowser/flowser) & [LinkLock](https://github.com/onflowser/linklock)
+
+ 
 <!---
 monikaxh/monikaxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
